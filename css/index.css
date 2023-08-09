@@ -222,3 +222,21 @@ body {
     font-weight: bold;
     margin-top: 40px;
   }
+
+  .s{
+    font-family: 'prague';
+    font-size:2rem;
+    line-height: 50px;
+    letter-spacing:3px;
+    color:#fff;
+    margin-top: 28px;
+    }
+    .r1{
+       font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+       font-size: 15px;
+       height:70px;
+       color: white;
+       margin-top: 20px;
+       margin-bottom: 0rem;
+     }
+    

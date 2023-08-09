@@ -44,11 +44,11 @@ display: none;
 background: rgba(17, 44, 58, 0.847) !important;
 }
 }
+
+
 .contactline-mob {
 display: none;
-
 }
-
 .contactline-web {
 font-size: 5.5rem;
 color: #3cc88f;
@@ -184,3 +184,20 @@ display: none;
        height: 40px;
        background:cadetblue;
       }
+      .s{
+        font-family: 'prague';
+        font-size:2rem;
+        line-height: 50px;
+        letter-spacing:3px;
+        color:#fff;
+        margin-top: 28px;
+        }
+        .r1{
+           font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+           font-size: 15px;
+           height:70px;
+           color: white;
+           margin-top: 20px;
+           margin-bottom: 0rem;
+         }
+        
